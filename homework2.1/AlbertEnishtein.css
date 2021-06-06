@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Albert{
+text-align: center;
+width: auto;
+}
+
+.point {
+    padding-left: 35px;
+    padding-right: 10px;
+}
+
+.maintext {
+    padding-bottom: 10px;
+}
+#name1{
+    color: blue;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+#rule{
+    color: green;
+    padding-bottom: 4px;
+}
+
+#textforimg{
+    padding-bottom: 15px;
+}
+
+#rules1{
+    padding-bottom: 15px;
+}
+
+#textforfooter{
+    padding-left: 55px;
+}
+
+#name2{
+    padding-top: 20px;
+    padding-left: 55px;
+}
